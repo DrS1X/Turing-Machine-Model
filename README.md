@@ -1,6 +1,8 @@
 # Turing_Machine_Model
 A java desktop application simulates Turing Machine, that is really EASY to design control rule/ command/ program of Turing Machine with the DEBUG model.
 
+![UI](https://github.com/DrS1X/Turing_Machine_Model/blob/main/UITuringMahine.png)
+
 # Functions and features
 ## 1.Process Visualization
 The control rule corresponding to the current state and symbol is highlighted in real time, when the Turing machine is running.
